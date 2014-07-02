@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+    <family>
+        <nameset>
+            <name>sans-serif</name>
+            <name>arial</name>
+            <name>helvetica</name>
+            <name>tahoma</name>
+            <name>verdana</name>
+        </nameset>
+        <fileset>
+            <file>LinBiolinum_R.ttf</file>
+            <file>LinBiolinum_RB.ttf</file>
+            <file>LinBiolinum_RI.ttf</file>
+            <file>LinLibertine_RBI.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>monospace</name>
+        </nameset>
+        <fileset>
+            <file>LinLibertine_M.ttf</file>
+        </fileset>
+    </family>
+    
+    <family>
+        <nameset>
+            <name>serif</name>
+        </nameset>
+        <fileset>
+            <file>LinLibertine_R.ttf</file>
+            <file>LinLibertine_RB.ttf</file>
+            <file>LinLibertine_RI.ttf</file>
+            <file>LinLibertine_RBI.ttf</file>
+        </fileset>
+    </family>
+    
+</familyset>
